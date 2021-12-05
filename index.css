@@ -1,53 +1,55 @@
 
-div.Tom{
+.Tom{
     height: 500px;
     background-image:url("Group\ 36.png") ; 
     background-color: #F9CAC2;
     background-repeat: no-repeat;
-    background-position:var();
     background-size: 1000px 800px;
     padding: 20px;
     background-position: center;
 }
-div.indo{
+.indo{
     background-color: white;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
 }
-div.Aayu{
+.Aayu{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
 
 }
-div.built{
+.built{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
 }
-div.Guilt{
+.Guilt{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     flex-wrap: wrap;
 }
-div.German{
+.German{
+    padding: 20px;
     background-image:url("planet-earth\ 1.png");
     text-align: right;
     background-color: #EAFAFA;
     background-repeat: no-repeat;
+    background-size: 1000px 800px;
+    background-position: center;
 }
 
 
-div.Suppo{
+.Suppo{
     text-align: center;
     background-color: #FBFFD4;
 }
-div.Topper{
+.Topper{
     background-color: #F9CAC2;
 }
 .black{
@@ -89,30 +91,30 @@ display:flex;
 flex-direction: row;
 justify-content:space-between;
 }
-div.X{
+.X{
     margin:30px;
     display:flex;
 flex-direction: row;
 justify-content:  space-between;
 
 }
-div.Y{margin:30px;
+.Y{margin:30px;
     display:flex;
     flex-direction: row;
     justify-content:space-between;
 
 }
-div.A{display:flex;
+.A{display:flex;
     flex-direction: row;
     justify-content: space-between;
 
 }
-div.B{
+.B{
     display:flex;
     flex-direction: row;
     justify-content: space-between;
 }
-div.C{
+.C{
     display:flex;
     flex-direction: row;
     justify-content: end;
@@ -135,4 +137,15 @@ div.C{
     padding-right: 20px;
     margin-left:65px ;
     margin-right: 65px;
+}
+.Mayank{
+    margin-left:250px;
+    display:flex;
+    flex-direction: row;
+}
+.cat{
+    padding-left: 200px;
+}
+.Mom{
+    color:white;
 }
