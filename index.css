@@ -1,0 +1,43 @@
+p.green{
+    text-align: center;
+}
+p.blue{
+    text-align:center;
+}
+p.Yellow{
+    text-align: right;
+}
+.imagec{
+    margin: auto auto auto auto;
+}
+div.Tom{
+    height: 400px;
+    width: auto;
+    background-image:url("C:\Users\dell\Desktop\webshopr\Images\Group 36.png") ; 
+    background-color: #F9CAC2;
+}
+div.indo{
+    background-color: white;
+}
+div.German{
+    text-align: right;
+    background-color: #EAFAFA;
+}
+
+
+div.Suppo{
+    text-align: center;
+    background-color: #FBFFD4;
+}
+div.Topper{
+    background-color: #F9CAC2;
+}
+.black{
+    background-color: black;
+    color:white;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
