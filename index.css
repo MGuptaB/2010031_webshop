@@ -1,27 +1,33 @@
-p.green{
-    text-align: center;
-}
-p.blue{
-    text-align:center;
-}
-p.Yellow{
-    text-align: right;
-}
-.imagec{
-    margin: auto auto auto auto;
-}
+
 div.Tom{
-    height: 400px;
-    width: auto;
-    background-image:url("C:\Users\dell\Desktop\webshopr\Images\Group 36.png") ; 
+    background-image:url("Group\ 36.png") ; 
     background-color: #F9CAC2;
+    background-repeat: no-repeat;
 }
 div.indo{
     background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+div.built{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+div.Guilt{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 div.German{
+    background-image:url("planet-earth\ 1.png");
     text-align: right;
     background-color: #EAFAFA;
+    background-repeat: no-repeat;
 }
 
 
@@ -36,8 +42,14 @@ div.Topper{
     background-color: black;
     color:white;
 }
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
+.blue{
+    text-align: center;
+}
+.green{
+    text-align: center;
+}
+h2{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
