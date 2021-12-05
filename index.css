@@ -82,20 +82,22 @@ h2{
     flex-direction: row;
     justify-content: center;
 }
-div.W{
-    margin-left:10px;
+.W{
+padding-left: 30px;
+    margin:30px;
 display:flex;
 flex-direction: row;
 justify-content:space-between;
 }
 div.X{
-    margin-left: 1500px;
+    margin:30px;
     display:flex;
 flex-direction: row;
 justify-content:  space-between;
 
 }
-div.Y{display:flex;
+div.Y{margin:30px;
+    display:flex;
     flex-direction: row;
     justify-content:space-between;
 
@@ -110,8 +112,27 @@ div.B{
     flex-direction: row;
     justify-content: space-between;
 }
-div.c{
+div.C{
     display:flex;
     flex-direction: row;
     justify-content: end;
+}
+.E{
+
+    display: flex;
+    flex-wrap: wrap;
+}
+.D{
+    padding-left: 20px;
+    margin-left:65px ;
+    margin-right: 65px;
+}
+.G{
+    margin-left:65px ;
+    margin-right: 65px;
+}
+.H{
+    padding-right: 20px;
+    margin-left:65px ;
+    margin-right: 65px;
 }
