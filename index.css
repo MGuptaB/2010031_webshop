@@ -1,5 +1,5 @@
-
-.Tom{
+.Tom
+{
     height: 500px;
     background-image:url("Group\ 36.png") ; 
     background-color: #F9CAC2;
@@ -8,33 +8,38 @@
     padding: 20px;
     background-position: center;
 }
-.indo{
+.indo
+{
     background-color: white;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
 }
-.Aayu{
+.Aayu
+{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
 
 }
-.built{
+.built
+{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
 }
-.Guilt{
+.Guilt
+{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     flex-wrap: wrap;
 }
-.German{
+.German
+{
     padding: 20px;
     background-image:url("planet-earth\ 1.png");
     text-align: right;
@@ -45,107 +50,141 @@
 }
 
 
-.Suppo{
+.Suppo
+{
     text-align: center;
     background-color: #FBFFD4;
 }
-.Topper{
+.Topper
+{
     background-color: #F9CAC2;
 }
-.black{
+.black
+{
     background-color: black;
     color:white;
 }
-.blue{
+.blue
+{
     text-align: center;
 }
-.green{
+.green
+{
     text-align: center;
 }
-h2{
+h2
+{
     display: flex;
     flex-direction: row;
     justify-content: right;
+    flex-wrap: wrap;
 }
-#nav{
+#nav
+{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     box-sizing: border-box;
     border-style: hidden;
+    flex-wrap: wrap;
 }
-.Maya{
+.Maya
+{
     display: flex;
     flex-direction: row;
     justify-content: end;
+    flex-wrap: wrap;
 }
-.dash{
+.dash
+{
     display: flex;
     flex-direction: row;
     justify-content: center;
+    flex-wrap: wrap;
 }
-.W{
+.W
+{
 padding-left: 30px;
-    margin:30px;
+margin:30px;
 display:flex;
 flex-direction: row;
 justify-content:space-between;
+flex-wrap: wrap;
 }
-.X{
-    margin:30px;
-    display:flex;
+.X
+{
+ margin:30px;
+display:flex;
 flex-direction: row;
 justify-content:  space-between;
+flex-wrap: wrap;
 
 }
-.Y{margin:30px;
+.Y
+{   
+    margin:30px;
     display:flex;
     flex-direction: row;
     justify-content:space-between;
+    flex-wrap: wrap;
 
 }
-.A{display:flex;
-    flex-direction: row;
-    justify-content: space-between;
-
-}
-.B{
+.A{
     display:flex;
     flex-direction: row;
     justify-content: space-between;
+    flex-wrap: wrap;
+
 }
-.C{
+.B
+{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.C
+{
     display:flex;
     flex-direction: row;
     justify-content: end;
+    flex-wrap: wrap;
 }
-.E{
+.E
+{
 
     display: flex;
     flex-wrap: wrap;
 }
-.D{
+.D
+{
     padding-left: 20px;
     margin-left:65px ;
     margin-right: 65px;
 }
-.G{
+.G
+{
     margin-left:65px ;
     margin-right: 65px;
 }
-.H{
+.H
+{
     padding-right: 20px;
     margin-left:65px ;
     margin-right: 65px;
 }
-.Mayank{
+.Mayank
+{
     margin-left:250px;
     display:flex;
     flex-direction: row;
+    flex-wrap: wrap;
 }
-.cat{
+.cat
+{
     padding-left: 200px;
 }
-.Mom{
+.Mom
+{
     color:white;
 }
